@@ -54,7 +54,7 @@ The dataset consists of **10,000 rows** and includes the following features:
 - The **engine capacity and price are positively correlated**.
 
 ## 📷 Tableau Dashboard
-![Bike Sales Dashboard](Dashboard_2.png)
+![Bike Sales Dashboard]https://github.com/Manmohantodi/Bike-Sales-Data-Analysis/blob/main/Dashboard%202.png
 
 ## 🚀 How to Run This Project
 1. Clone the repository:
