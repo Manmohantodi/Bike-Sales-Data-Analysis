@@ -60,7 +60,7 @@ The dataset consists of **10,000 rows** and includes the following features:
 ## 🚀 How to Run This Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/bike-sales-analysis.git
+   git clone https://github.com/Manmohantodi/bike-sales-analysis.git
    ```
 2. Install dependencies:
    ```bash
